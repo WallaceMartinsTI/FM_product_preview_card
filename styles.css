@@ -100,7 +100,7 @@ button {
   transition: all ease .3s;
 }
 
-.main_container .main_content .info_section button p {
+.main_container .main_content .info_section button span {
   margin-left: 1em;
 }
 
