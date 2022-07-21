@@ -3,13 +3,15 @@
   box-sizing: border-box;
 }
 
+.flex {
+  display: flex;
+}
+
 body {
   background-color: hsl(30, 38%, 92%);
 }
 
 .main_container {
-  display: flex;
-  
   align-items: center;
   justify-content: center;
   height: 100vh;
@@ -18,8 +20,6 @@ body {
 }
 
 .main_content {
-  display: flex;
-
   background-color: hsl(0, 0%, 100%);
   border-radius: 1em;
 
@@ -38,7 +38,6 @@ body {
 }
 
 .info_section {
-  display: flex;
   flex-direction: column;
   margin: 25px;
   position: relative;
@@ -68,7 +67,6 @@ body {
 }
 
 .prices {
-  display: flex;
   align-items: center;
   margin-bottom: 1em;
 }
@@ -85,7 +83,6 @@ body {
 }
 
 button {
-  display: flex;
   align-items: center;
   justify-content: center;
   background-color: hsl(158, 36%, 37%);
@@ -100,8 +97,8 @@ button {
   transition: all ease .3s;
 }
 
-.main_container .main_content .info_section button span {
-  margin-left: 1em;
+.main_container .main_content .info_section button img {
+  margin-right: 1em;
 }
 
 button:hover,
@@ -114,14 +111,16 @@ button:focus {
   display: none;
 }
 
+/*
 @media (max-width: 425px) {
   .main_container {
     width: 100%;
     padding: 35em 25em;
   }
 }
+*/
 
-@media (max-width: 375px) {
+@media (max-width: 425px) {
   .desktop_image {
     display: none;
   }
@@ -133,7 +132,7 @@ button:focus {
 
   .main_content {
     flex-direction: column;
-    height: 650px;
+    height: 680px;
   }
 
   .image_section {
