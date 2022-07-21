@@ -111,15 +111,6 @@ button:focus {
   display: none;
 }
 
-/*
-@media (max-width: 425px) {
-  .main_container {
-    width: 100%;
-    padding: 35em 25em;
-  }
-}
-*/
-
 @media (max-width: 425px) {
   .desktop_image {
     display: none;
