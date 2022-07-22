@@ -14,7 +14,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ## Author
 
