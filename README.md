@@ -4,19 +4,19 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ![](./images/screenshot.PNG)
 
-## Links
+## 🔗 Links
 
 - Solution URL: [Click here](https://github.com/WallaceMartinsTI/FM_product_preview_card)
 - Live Site URL: [Click here](https://wallacemartinsti.github.io/FM_product_preview_card/)
 
-## Built with
+## 🛠️ Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Media Queries
 - Flexbox
 
-## Author
+## 👨‍💻 Author
 
 - Gibhub - [WallaceMartinsTI](https://github.com/WallaceMartinsTI)
 - Frontend Mentor - [@WallaceMartinsTI](https://www.frontendmentor.io/profile/WallaceMartinsTI)
