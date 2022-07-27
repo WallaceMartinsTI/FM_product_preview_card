@@ -21,3 +21,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - Gibhub - [WallaceMartinsTI](https://github.com/WallaceMartinsTI)
 - Frontend Mentor - [@WallaceMartinsTI](https://www.frontendmentor.io/profile/WallaceMartinsTI)
 - Twitter - [@Wallacexp159](https://twitter.com/wallacexp159)
+
+## 📄 License
+
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
+<br />
